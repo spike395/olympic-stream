@@ -2,31 +2,31 @@
 #EXTINF:-1 tvg-name="LAST RELEASE" tvg-logo="https://i.postimg.cc/W3bXfBZZ/feed-00.jpg" group-title="Olympic 2024",LAST RELEASE
 https://vod3.cf.dmcdn.net/sec2(DL8dvZwyoRji7bM1XU5pZ0cGNRhteUgtPMriWXobN7Q83dsdfBDsoeydc5ozMH2bBUCzm14jtidnbLaLVpMxshlrqYOlhJ0mV-WEvYLYGlVuucTg8VHSOVUJkD6kBAnTlRRjnCLk2uzJPhPxn9-LEg)/video/089/280/549082980_mp4_h264_aac_hd_1.m3u8#cell=cf3
 
-#EXTINF:-1 tvg-name="FEED 1" tvg-logo="https://i.postimg.cc/fRcCWzjX/feed-01.jpg" group-title="Olympic 2024",FEED 1
+#EXTINF:-1 tvg-name="FEED 01" tvg-logo="https://i.postimg.cc/fRcCWzjX/feed-01.jpg" group-title="Olympic 2024",FEED 01
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 2" tvg-logo="https://i.postimg.cc/13hMZn6s/feed-02.jpg" group-title="Olympic 2024",FEED 2
+#EXTINF:-1 tvg-name="FEED 02" tvg-logo="https://i.postimg.cc/13hMZn6s/feed-02.jpg" group-title="Olympic 2024",FEED 02
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed2_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 3" tvg-logo="https://i.postimg.cc/RVnG8QWg/feed-03.jpg" group-title="Olympic 2024",FEED 3
+#EXTINF:-1 tvg-name="FEED 03" tvg-logo="https://i.postimg.cc/RVnG8QWg/feed-03.jpg" group-title="Olympic 2024",FEED 03
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed3_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 4" tvg-logo="https://i.postimg.cc/C5975dQC/feed-04.jpg" group-title="Olympic 2024",FEED 4
+#EXTINF:-1 tvg-name="FEED 04" tvg-logo="https://i.postimg.cc/C5975dQC/feed-04.jpg" group-title="Olympic 2024",FEED 04
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed4_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 5" tvg-logo="https://i.postimg.cc/4ddQ1zCb/feed-05.jpg" group-title="Olympic 2024",FEED 5
+#EXTINF:-1 tvg-name="FEED 05" tvg-logo="https://i.postimg.cc/4ddQ1zCb/feed-05.jpg" group-title="Olympic 2024",FEED 05
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112593/uhd_akamai_ctv_avc_eng_olympic_feed5_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 6" tvg-logo="https://i.postimg.cc/76WMtfwv/feed-06.jpg" group-title="Olympic 2024",FEED 6
+#EXTINF:-1 tvg-name="FEED 06" tvg-logo="https://i.postimg.cc/76WMtfwv/feed-06.jpg" group-title="Olympic 2024",FEED 06
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed6_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 7" tvg-logo="https://i.postimg.cc/XYbhkDsf/feed-07.jpg" group-title="Olympic 2024",FEED 7
+#EXTINF:-1 tvg-name="FEED 07" tvg-logo="https://i.postimg.cc/XYbhkDsf/feed-07.jpg" group-title="Olympic 2024",FEED 07
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112594/uhd_akamai_ctv_avc_eng_olympic_feed7_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 8" tvg-logo="https://i.postimg.cc/xqrGYhXt/feed-08.jpg" group-title="Olympic 2024",FEED 8
+#EXTINF:-1 tvg-name="FEED 08" tvg-logo="https://i.postimg.cc/xqrGYhXt/feed-08.jpg" group-title="Olympic 2024",FEED 08
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed8_240724/master.m3u8
 
-#EXTINF:-1 tvg-name="FEED 9" tvg-logo="https://i.postimg.cc/BbP5r4nj/feed-09.jpg" group-title="Olympic 2024",FEED 9
+#EXTINF:-1 tvg-name="FEED 09" tvg-logo="https://i.postimg.cc/BbP5r4nj/feed-09.jpg" group-title="Olympic 2024",FEED 09
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed9_240724/master.m3u8
 
 #EXTINF:-1 tvg-name="FEED 10" tvg-logo="https://i.postimg.cc/MKRNR8mZ/feed-10.jpg" group-title="Olympic 2024",FEED 10
