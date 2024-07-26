@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-name="LAST RELEASE" tvg-logo="https://i.postimg.cc/W3bXfBZZ/feed-00.jpg" group-title="Olympic 2024",LAST RELEASE
 https://vod3.cf.dmcdn.net/sec2(xJcdsSRd2-AgQvFiRaAFUugFlbS8dMoXy5YVwY1OCLsPqtH28Fk-l0EQzp6emOfAM3Nj8P1P3Tl8ZAYRwKoN7QNOFADQEiUCTu_JW_fIxR2imAFosF2cm-eJa-jDOdO0n0L5ppaS61_V3sNkXbUkyQ)/video/089/280/549082980_mp4_h264_aac_hd_2.m3u8
 
+#EXTINF:-1 tvg-name="Opening Ceremony (Hindi)" tvg-logo="https://i.postimg.cc/c4gD7K6J/oc-hindi.jpg" group-title="Olympic 2024",Opening Ceremony (Hindi)
+https://prod-sportsp-hin.jiocinema.com/hls/live/2112615/uhd_akamai_ctv_avc_hin_olympic_india_260724/master.m3u8?hdnts=st=1722010092~exp=1722017292~acl=/*~id=4866ae86aafd45bca88fb27c8b0d2499~data=rqId=39cae74c-90fd-4df6-a0a8-b687567d704a~hmac=b08edb7b321884a8d51c5b750e8eb31d085e8f282f96ea876fb3a5ef2e447f74
+
+#EXTINF:-1 tvg-name="Opening Ceremony (English)" tvg-logo="https://i.postimg.cc/2jXcBdkJ/oc-english.jpg" group-title="Olympic 2024",Opening Ceremony (English)
+https://prod-sportsp-eng.jiocinema.com/hls/live/2100309/uhd_akamai_ctv_avc_eng_olympic_india_260724/master.m3u8?hdnts=st=1722010149~exp=1722017349~acl=/*~id=4866ae86aafd45bca88fb27c8b0d2499~data=rqId=79da61e0-5568-419d-ba7f-88823c4ce033~hmac=775322a25b4ae979e1d282fb5d10b3106c3575bbf1b44193649cd283b077a53f
+
 #EXTINF:-1 tvg-name="FEED 01" tvg-logo="https://i.postimg.cc/fRcCWzjX/feed-01.jpg" group-title="Olympic 2024",FEED 01
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_260724/master.m3u8
 
