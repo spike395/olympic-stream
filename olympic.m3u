@@ -52,3 +52,6 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_o
 
 #EXTINF:-1 tvg-name="FEED 17" tvg-logo="https://i.postimg.cc/vHRSGNFJ/feed-17.jpg" group-title="Olympic 2024",FEED 17
 https://prod-ent-live-gm.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed17_270724/master.m3u8
+
+#EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/wTy7XgkQ/feed-s18.jpg" group-title="Olympic 2024",Sports18 1 HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
