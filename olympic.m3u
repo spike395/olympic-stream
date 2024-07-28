@@ -56,8 +56,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_o
 #EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/wTy7XgkQ/feed-s18.jpg" group-title="Olympic 2024", Sports18 1 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-name="SONYLIV HINDI" tvg-logo="https://i.postimg.cc/1XN8VY2H/sonyliv-hindi.jpg" group-title="Sl vs IND", SONYLIV HINDI
+#EXTINF:-1 tvg-name="SONYLIV HINDI" tvg-logo="https://imgtr.ee/images/2024/07/28/ac3632c4312f417d70f0efc941b14642.jpeg" group-title="Sl vs IND", SONYLIV HINDI
 https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 
-#EXTINF:-1 tvg-name="SONYLIV ENGLISH" tvg-logo="https://i.postimg.cc/zBQLB1tv/sonyliv-english.jpg" group-title="SL vs IND", SONYLIV ENGLISH
+#EXTINF:-1 tvg-name="SONYLIV ENGLISH" tvg-logo="https://imgtr.ee/images/2024/07/28/535bb27ef6b510e2fe6e55cd89c5eb8c.jpeg" group-title="SL vs IND", SONYLIV ENGLISH
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
