@@ -71,3 +71,8 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/a838e39b1b9a48849ec15c9c12d79682/m
 #EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="https://i.postimg.cc/wTy7XgkQ/feed-s18.jpg" group-title="Olympic 2024", Sports18 1 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 
+#EXTINF:-1 tvg-name="SONYLIV HINDI" tvg-logo="https://i.postimg.cc/3R363gS3/slvsind-hindi.jpg" group-title="Cricket", SONYLIV HINDI
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+
+#EXTINF:-1 tvg-name="SONYLIV ENGLISH" tvg-logo="https://i.postimg.cc/5tBTcPmP/slvsind-english.jpg" group-title="Cricket", SONYLIV ENGLISH
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
